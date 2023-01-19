@@ -16,7 +16,7 @@
 
 <img align="left" alt="Python" width="50px" src="Python_Icon.png" />
 <img align="left" alt="SQL" width="50px" src="SQL_Icon.jpeg" />
-<img align="left" alt="Power_BI" width="50px" src="PowerBI_Icon.png" />
+
 
 
 
