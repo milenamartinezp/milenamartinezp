@@ -1,8 +1,9 @@
 # Hello there! I'm Milena 👋🏼
 
- <img align="right" alt="GIF" src="Image1.jpg" width="300" height="300" />
+ <img align="right" alt="GIF" src="Image1.jpg" width="450" height="450" />
 
 ### I'm an enthusiastic Data Analyst 👩🏻‍💻📊. I started my journey in the data world 3 years ago, and I'm still working on it.
+
 
 
 <!--
