@@ -1,5 +1,5 @@
 # Hello there! I'm Milena 👋 
-## I'm a Data Analyst with 3+ years of experience
+## I'm an enthusiastic Data Analyst. I started my journey in the data world 3 years ago, and I'm still working on it.
 <!--
 **milenamartinezp/milenamartinezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
