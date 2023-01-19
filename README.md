@@ -12,6 +12,10 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love puppies 🐶🐕. In my free time, I like to read📖, travel✈️ and cook👩🏻‍🍳 for my family and friends
 
+### Languages and Tools:
+
+[<img align="left" alt="Python" width="26px" src="Python_Icon.png" />]
+
 
 
 
