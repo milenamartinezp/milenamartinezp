@@ -2,8 +2,7 @@
 
  <img align="right" alt="Image: Freepik.com" src="Image1.jpg" width="450" height="450" />
 
-### I'm an enthusiastic Data Analyst 👩🏻‍💻📊 
-### I started my journey in the data world 3 years ago, and I'm still working on it.
+## I'm an enthusiastic Data Analyst 👩🏻‍💻📊 
 
 - 📚 I'm currently pursuing my Post-Graduate Certificate in Marketing Research and Analytics @Centennial College
 - 📁 I'm developing my portfolio with all the data projects I have been working on
