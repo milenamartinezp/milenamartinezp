@@ -13,12 +13,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="70px" src="Python_Icon.jpeg" />
+<img align="left" alt="Python" width="70px" src="Python_Icon.pngg" />
 <img align="left" alt="SQL" width="70px" src="SQL_icon.png" />
 <img align="left" alt="Power BI" width="70px" src="PowerBI_icon.jpeg" />
-<img align="left" alt="Tableau" width="70px" src="Tableau_icon.jpeg" />
-
-<img align="left" alt="Google Analytics" width="70px" src="GA_icon.png" />
+<img align="left" alt="Tableau" width="70px" src="Tableau_icon.jpeg" /> \
+<img align="left" alt="Google Analytics" width="100px" src="GA_icon.png" />
 
 
 
