@@ -1,6 +1,6 @@
 # Hello there! I'm Milena 👋🏼
 
- <img align="right" alt="Image: Freepik.com" src="Image1.jpg" width="450" height="450" />
+ <img align="right" alt="Image: Freepik.com" src="Image1.jpg" width="450" height="550" style="object-fit:contain"/> 
 
 ## I'm an enthusiastic Data Analyst 👩🏻‍💻📊 
 
@@ -16,7 +16,7 @@
 <img align="left" alt="Python" width="70px" src="Python_Icon.pngg" />
 <img align="left" alt="SQL" width="70px" src="SQL_icon.png" />
 <img align="left" alt="Power BI" width="70px" src="PowerBI_icon.jpeg" />
-<img align="left" alt="Tableau" width="70px" src="Tableau_icon.jpeg" /> \
+<img align="left" alt="Tableau" width="70px" src="Tableau_icon.jpeg" /> 
 <img align="left" alt="Google Analytics" width="100px" src="GA_icon.png" />
 
 
