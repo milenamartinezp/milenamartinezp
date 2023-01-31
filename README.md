@@ -6,7 +6,7 @@
 
 - 📚 I'm currently pursuing my Post-Graduate Certificate in Marketing Research and Analytics @Centennial College
 - 📁 I'm developing my portfolio with all the data projects I have been working on
-- 👯 I'm looking to collaborate on data projects
+- 👯 I'm looking to collaborate on data science projects
 - 📫 How to reach me: milenamartinezp9@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love puppies 🐶🐕. In my free time, I like to read📖, travel✈️ and cook👩🏻‍🍳 for my family and friends
@@ -14,7 +14,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="50px" src="Python_Icon.png" />
-<img align="left" alt="SQL" width="50px" src="SQL_Icon.jpeg" />
+<img align="left" alt="SQL" width="50px" src="SQL_Icon.png" />
 
 
 
