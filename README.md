@@ -1,7 +1,5 @@
 # Hello there! I'm Milena 👋🏼
 
- <img align="right" alt="Image: Freepik.com" src="Image1.jpg" width="450" height="450"/> 
-
 I'm a data analyst with over three years of experience in the industry. I am passionate about turning complex data into actionable insights that drive business growth. My expertise lies in data analysis, data visualization and predictive models.
 
 ## Key Skills:
@@ -31,6 +29,6 @@ Bachelor of Industrial Engineering
 
 ## Contact:
 
-If you're interested in discussing potential job opportunities, please feel free to contact me via email at milenamartinezp9@gmail.com or through my [LinkedIn Prodile](www.linkedin.com/in/milmarp). I'm always open to networking and new opportunities.
+If you're interested in discussing potential job opportunities, please feel free to contact me via email at milenamartinezp9@gmail.com or through my [LinkedIn Prodile](www.linkedin.com/in/). I'm always open to networking and new opportunities.
 
 **Thank you for taking the time to visit my GitHub profile. I look forward to connecting with you!**
