@@ -1,6 +1,6 @@
 # Hello there! I'm Milena 👋🏼
 
- <img align="right" alt="Image: Freepik.com" src="Image1.jpg" width="450" height="450"/> 
+ <img align="right" alt="Image: Freepik.com" src="Image1.jpg" width="450" height="550"/> 
 
 I'm a data analyst with over three years of experience in the industry. I am passionate about turning complex data into actionable insights that drive business growth. My expertise lies in data analysis, data visualization and predictive models.
 
