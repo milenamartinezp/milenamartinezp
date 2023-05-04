@@ -20,10 +20,12 @@ Microsoft Excel | Python | SQL | Microsoft PowerBI | Tableau | SAS Enterprise Gu
 
 **Post-Graduate Certificate**  
 August 2022 - August 2023  
+Centennial College, Toronto, Canada  
 Post-Graduate Certificate of Marketing Research and Analytics
 
 **Bachelor’s Degree**   
 January 2014 - March 2019  
+Universidad del Norte, Barranquilla, Colombia  
 Bachelor of Industrial Engineering
 
 ## Contact:
