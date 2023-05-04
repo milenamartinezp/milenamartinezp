@@ -13,10 +13,10 @@ I'm a data analyst with over three years of experience in the industry. I am pas
 
 ## Softwares:
 
-<img align="left" alt="Python" width="70px" src="Python_Icon.png" />
-<img align="left" alt="SQL" width="70px" src="SQL_icon.png" />
-<img align="left" alt="Power BI" width="70px" src="PowerBI_icon.jpeg" />
-<img align="left" alt="Tableau" width="70px" src="Tableau_icon.jpeg" /> 
+<img align="left" alt="Python" width="70px" src="Python_Icon.png" />  
+<img align="left" alt="SQL" width="70px" src="SQL_icon.png" />  
+<img align="left" alt="Power BI" width="70px" src="PowerBI_icon.jpeg" />  
+<img align="left" alt="Tableau" width="70px" src="Tableau_icon.jpeg" />  
 
 
 ## Recent Projects:
