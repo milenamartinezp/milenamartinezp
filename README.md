@@ -18,22 +18,23 @@ I'm a data analyst with over three years of experience in the industry. I am pas
 <img align="left" alt="Power BI" width="70px" src="PowerBI_icon.jpeg" />
 <img align="left" alt="Tableau" width="70px" src="Tableau_icon.jpeg" /> 
 
+
 ## Recent Projects:
 
 - [Project 1 Name]: Briefly describe the project and highlight your role in it, as well as any relevant data analysis or modeling techniques you used.
 
 ## Certifications and Education:
 
-Post-Graduate Certificate | August 2022 - August 2023
-Centennial College, Toronto, ON, Canada
+**Post-Graduate Certificate**  
+August 2022 - August 2023  
 Post-Graduate Certificate of Marketing Research and Analytics
 
-Bachelor’s Degree | January 2014 - March 2019
-Universidad del Norte, Barranquilla, Colombia
+**Bachelor’s Degree**   
+January 2014 - March 2019  
 Bachelor of Industrial Engineering
 
 ## Contact:
 
-If you're interested in discussing potential job opportunities, please feel free to reach out to me via email at milenamartinezp9@gmail.com. I'm always open to networking and new opportunities.
+If you're interested in discussing potential job opportunities, please feel free to contact me via email at milenamartinezp9@gmail.com or through my [LinkedIn Prodile](www.linkedin.com/in/milmarp). I'm always open to networking and new opportunities.
 
-### Thank you for taking the time to visit my GitHub profile. I look forward to connecting with you!
+**Thank you for taking the time to visit my GitHub profile. I look forward to connecting with you!**
