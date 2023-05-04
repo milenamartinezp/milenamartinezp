@@ -9,9 +9,9 @@ I'm a data analyst with over three years of experience in the industry. I am pas
 - Data analysis and visualization using tools like Microsoft Excel, Python, Microsoft PowerBI, Tableau, and SQL
 - Statistical modeling and hypothesis testing
 - Machine learning and predictive modeling
-- Strong communication and presentation skills, with experience presenting findings to senior executives
+- Strong communication and presentation skills
 
-## Languages and Tools:
+## Softwares:
 
 <img align="left" alt="Python" width="70px" src="Python_Icon.png" />
 <img align="left" alt="SQL" width="70px" src="SQL_icon.png" />
@@ -21,17 +21,19 @@ I'm a data analyst with over three years of experience in the industry. I am pas
 ## Recent Projects:
 
 - [Project 1 Name]: Briefly describe the project and highlight your role in it, as well as any relevant data analysis or modeling techniques you used.
-- [Project 2 Name]: Same as above.
-- [Project 3 Name]: Same as above.
 
 ## Certifications and Education:
 
-- [Certification 1 Name]: Briefly describe the certification and why it's relevant to your work as a data analyst.
-- [Certification 2 Name]: Same as above.
-- [Degree Name] from [University Name]: Briefly describe your degree program and any relevant coursework.
+Post-Graduate Certificate | August 2022 - August 2023
+Centennial College, Toronto, ON, Canada
+Post-Graduate Certificate of Marketing Research and Analytics
+
+Bachelor’s Degree | January 2014 - March 2019
+Universidad del Norte, Barranquilla, Colombia
+Bachelor of Industrial Engineering
 
 ## Contact:
 
 If you're interested in discussing potential job opportunities, please feel free to reach out to me via email at milenamartinezp9@gmail.com. I'm always open to networking and new opportunities.
 
-Thank you for taking the time to visit my GitHub profile. I look forward to connecting with you!
+### Thank you for taking the time to visit my GitHub profile. I look forward to connecting with you!
