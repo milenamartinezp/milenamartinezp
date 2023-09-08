@@ -2,7 +2,7 @@
 
 <img align="right" alt="Image: Freepik.com" src="Image1.jpg" width="450" height="450"/>
 
-I'm a data analyst with over three years of experience in the industry. I am passionate about turning complex data into actionable insights that drive business growth. My expertise lies in data analysis, data visualization, storytelling and predictive models.
+I'm a data analyst with four years of experience in the industry. I am passionate about turning complex data into actionable insights that drive business growth. My expertise lies in data analysis, data visualization, storytelling and predictive models.
 
 ## Key Skills:
 
